@@ -1,0 +1,61 @@
+body{
+    font-family: 'Modak', cursive;
+}
+.navbar {
+  background-color: #333;
+}
+.active-page{
+    border-bottom: 1px solid white;
+}
+.home{
+    text-align: center;
+}
+.about{
+    text-align: center;
+}
+.gallery{
+    text-align: center;
+}
+.bannerimg{
+    background: url(https://webbox.imgix.net/images/uzmdqklkumcnknpv/b7b8bb9a-7c0a-4d8f-bd8d-e10df7924123.jpg?auto=format,compress&fit=crop&crop=entropy);
+    height: 60vh;
+}
+.headline{
+    color: white;
+    position: absolute;
+    top: 12%;
+    left: 19%;
+}
+.motto{
+    background:white;
+    color: black;
+    text-align: center;
+}
+#img1{
+    width: 25vw;
+    height: 25vw;
+    border-radius: 100%;
+}
+#img2{
+    width: 25vw;
+    height: 25vw;
+    border-radius: 100%;
+}
+#img3{
+    width: 25vw;
+    height: 25vw;
+    border-radius: 100%;
+}
+.aboutheadline{
+    text-align: center;
+}
+.chefs{
+    text-align: center;
+}
+
+.big-img{
+    padding-bottom: 1.25em;
+}
+.img{
+    padding-bottom: 1.79em;
+}
